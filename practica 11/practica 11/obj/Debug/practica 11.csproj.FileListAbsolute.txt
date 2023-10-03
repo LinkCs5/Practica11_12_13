@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\bin\Debug\practica 11.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\bin\Debug\practica 11.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\bin\Debug\practica 11.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica 11.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica_11.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica_11.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica 11.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica 11.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica 11.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\practica 11\practica 11\obj\Debug\practica 11.pdb
