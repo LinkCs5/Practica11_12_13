@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\bin\Debug\Actividad 13.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\bin\Debug\Actividad 13.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\bin\Debug\Actividad 13.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad 13.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad_13.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad_13.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad 13.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad 13.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad 13.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Actividad 13\Actividad 13\obj\Debug\Actividad 13.pdb
